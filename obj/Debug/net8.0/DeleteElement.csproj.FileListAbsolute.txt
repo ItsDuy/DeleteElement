@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\bin\Debug\net8.0\DeleteElement.exe
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\bin\Debug\net8.0\DeleteElement.deps.json
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\bin\Debug\net8.0\DeleteElement.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\bin\Debug\net8.0\DeleteElement.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\bin\Debug\net8.0\DeleteElement.pdb
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\obj\Debug\net8.0\DeleteElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\obj\Debug\net8.0\DeleteElement.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\obj\Debug\net8.0\DeleteElement.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\obj\Debug\net8.0\DeleteElement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\obj\Debug\net8.0\DeleteElement.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\obj\Debug\net8.0\refint\DeleteElement.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\obj\Debug\net8.0\DeleteElement.pdb
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\obj\Debug\net8.0\DeleteElement.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DeleteElement\obj\Debug\net8.0\ref\DeleteElement.dll
